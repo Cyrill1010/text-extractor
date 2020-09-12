@@ -43,7 +43,6 @@
     "extends": [
       "plugin:vue/essential",
       "eslint:recommended",
-      "plugin:prettier/recommended",
       "@vue/prettier"
     ],
     "parserOptions": {
